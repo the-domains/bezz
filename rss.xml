@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[BEZZ]]></title>
+        <description><![CDATA[BEZZ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 28 Jan 2016 03:30:15 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[BEZZ TRAINING™is a personal training program designed with the client, for the client.]]></title>
+            <description><![CDATA[<article><h1>BEZZ TRAINING™is a personal training program designed with the client, for the client.</h1><p>We are more than a personal training company. We are here to reinvent the art of train.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/42c900992e5fef41aee71ce2dcdf07b8ef6449d4.gif"></article>]]></description>
+            <link>undefinedbezz/index.html</link>
+            <guid isPermaLink="false">a16fcecc-4dc7-4f11-86ea-f814ebcaeba4</guid>
+            <pubDate>Thu, 28 Jan 2016 03:30:12 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
