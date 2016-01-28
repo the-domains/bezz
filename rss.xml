@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[BEZZ]]></title>
+        <description><![CDATA[BEZZ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 28 Jan 2016 03:13:44 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[TRAINERS]]></title>
+            <description><![CDATA[<article><h1>TRAINERS</h1><p></p></article>]]></description>
+            <link>undefinedtrainers/index.html</link>
+            <guid isPermaLink="false">849b1ae8-240f-4d5f-9acb-5fac2b0c3f19</guid>
+            <pubDate>Thu, 28 Jan 2016 03:12:55 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
